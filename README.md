@@ -1,4 +1,4 @@
-# Res Key-Value Store
+# Key-Value Store
 
 DBDB is an on-disk, key-value storage engine modeled as a binary search tree. It is built to safely store, update, and retrieve data directly from your computer's hard drive.
 
